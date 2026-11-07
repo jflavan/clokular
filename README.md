@@ -194,6 +194,12 @@ Then drive it with `scripts/vnc.py`: `drag` to select text, `click(...,
 button=3)` to right-click, `snapshot` to see the result. Hovering the search
 submenu shows **Claude**, and clicking it opens the answer window.
 
+## License
+
+clokular is free software under the [GNU General Public License v3.0 or
+later](LICENSE). `clokular/epub.py` follows the page layout of Okular's EPUB
+backend (`generators/epub/converter.cpp`, GPL-2.0-or-later).
+
 ## Credits
 
 The Claude logo path in `icons/clokular-claude.svg` comes from
